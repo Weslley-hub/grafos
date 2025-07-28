@@ -17,12 +17,6 @@ Instalação:
 pip install networkx
 
 ## Instruções de Uso
-
-### 1. Ative o ambiente virtual (Windows PowerShell)
-
-```powershell
-.\grafos\Scripts\Activate.ps1
-
 ## Execute 
 
 ```bash
